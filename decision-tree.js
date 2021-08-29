@@ -1,4 +1,4 @@
-var dt = (function () {
+export default (function () {
           
     /**
      * Creates an instance of DecisionTree
